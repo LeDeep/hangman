@@ -1,0 +1,5 @@
+require 'rspec'
+require 'body'
+require 'player'
+require 'word'
+require 'game'
